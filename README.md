@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rudeboidev" target="blank"><img src="https://img.shields.io/twitter/follow/rudeboidev?logo=twitter&style=for-the-badge" alt="rudeboidev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rudy-hernandez-portfolio.netlify.app/](https://rudy-hernandez-portfolio.netlify.app/)
+- 👨‍💻 Some of my notable projects are available at [https://rudy-hernandez-portfolio.netlify.app/](https://rudy-hernandez-portfolio.netlify.app/)
 
 - 📫 How to reach me **rudy35hernandez@gmail.com**
 
